@@ -146,7 +146,7 @@ Das Manifest fungiert als Schablone. Dank der OFFSETS muss die Hardware die
 Daten nicht "lesen" und "verschieben", sondern kann direkt auf den BINÄREN 
 KORPUS zugreifen (Memory Mapping).
 
-### SCHEMA-BEISPIEL:
+SCHEMA-BEISPIEL:
 {
     "TENSOR_WEIGHTS": {
         "dtype": "TQ4_ALPHA",         // Quantisierungs-Auflösung
