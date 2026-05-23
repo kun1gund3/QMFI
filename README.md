@@ -32,6 +32,7 @@ make flow  # Inferenz-Test & Logbuch-Eintrag
 ![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
 ![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
 
+### Erläuterung
 ======================================================================
 
 
