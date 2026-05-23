@@ -2,7 +2,7 @@
 ![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
 ![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
 
-# QMFI Qubit-Metriken
+# QMFI Qubit-Metrik
 
 > **Core Logic:** ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
 
