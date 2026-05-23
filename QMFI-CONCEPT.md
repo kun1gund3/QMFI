@@ -209,7 +209,6 @@ DETAILANSICHT DES HEADERS (JSON):
     }
 }
 
---------------------------------------------------------------------------------
 
 EIGENSCHAFTEN:
 1. Sicher: Kein Code-Execution (im Gegensatz zu PyTorch .bin/.pt).
