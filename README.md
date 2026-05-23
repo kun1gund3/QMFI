@@ -4,8 +4,6 @@
 ![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
 ![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
 
-> **Status:** Experimental (Delta-Node Active)  
-> **Substrate:** S20 FE (aarch64)  
 > **Core Logic:** ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
 
 ## 🧠 Über das Projekt
