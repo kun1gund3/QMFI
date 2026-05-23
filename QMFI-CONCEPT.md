@@ -125,6 +125,7 @@ ERLÄUTERUNG DER ELEMENTE:
 ================================================================================
 # 🌊 QMFI - Die Topologie des Safetensors-Formats
 ================================================================================
+
 Dieses Format ist das "Gefäß" für unsere Majorana-Inferenz. Es trennt 
 strikt zwischen STRUKTUR (Geist) und MASSE (Daten).
 
