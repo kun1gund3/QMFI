@@ -53,7 +53,7 @@ VISUALISIERUNG DER SCHNITTSTELLE:
                (Binäre Gewichte / TQ4)
 
 ================================================================================
- LOGISCHE INTERPRETATION FÜR QMFI:
+  LOGISCHE INTERPRETATION FÜR QMFI:
 ================================================================================
 
 1.  _t_double_complex: 
@@ -158,6 +158,7 @@ SCHEMA-BEISPIEL:
         "entropy_source": "S20FE-HW"   // Herkunftsnachweis der Entropie
     }
 }
+
 --------------------------------------------------------------------------------
 ORDNUNGSPRINZIP: "Separation of Concerns"
 1. Sicherheit: Keine ausführbaren Header (Malware-Resistenz).
@@ -207,6 +208,7 @@ DETAILANSICHT DES HEADERS (JSON):
         "framework": "Termux-Science"
     }
 }
+
 --------------------------------------------------------------------------------
 
 EIGENSCHAFTEN:
