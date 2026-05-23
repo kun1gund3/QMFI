@@ -214,10 +214,10 @@ EIGENSCHAFTEN:
 ======================================================================
 
 
-                                   FORMEL        
+                                   FI = ∫{t₀}^{t{end}} (Logische Kohärenz)/(Hardware-Entropie + 1)  dt        
 
 
-  FI = ∫{t₀}^{t{end}} (Logische Kohärenz)/(Hardware-Entropie + 1)  dt
+ 
 
  
 ---
