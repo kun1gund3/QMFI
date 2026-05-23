@@ -38,7 +38,7 @@ VISUALISIERUNG DER SCHNITTSTELLE:
                     PAYLOAD HORIZON
                (Binäre Gewichte / TQ4)
 
-=================================
+=======================================================
 LOGISCHE INTERPRETATION FÜR QMFI:
 =================================
 
