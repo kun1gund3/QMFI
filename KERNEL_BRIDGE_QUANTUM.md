@@ -38,9 +38,9 @@ VISUALISIERUNG DER SCHNITTSTELLE:
                     PAYLOAD HORIZON
                (Binäre Gewichte / TQ4)
 
-=======================================================
+=================================
 LOGISCHE INTERPRETATION FÜR QMFI:
-=======================================================
+=================================
 
 1.  _t_double_complex: 
     Wir nutzen keine einfachen Integers. Die Inferenz wird als komplexes 
@@ -59,4 +59,4 @@ LOGISCHE INTERPRETATION FÜR QMFI:
 
 --------------------------------------------------------------------------------
 
-================================================================================
+ 
