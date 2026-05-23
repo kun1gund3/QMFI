@@ -1,3 +1,5 @@
+---
+
 ### Was dieses Update bewirkt:
 
 1.  **Wissenschaftliche Tiefe:** Wir testen nicht mehr nur, ob das Programm "läuft", sondern ob die mathematische Struktur (`complex128`) unter Stress korrumpiert wird.
