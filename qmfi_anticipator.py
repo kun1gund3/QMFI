@@ -13,7 +13,7 @@ MEM_THRESHOLD = 50000  # kB Änderungsrate pro Sekunde als Schwelle
 def send_to_llm(phase):
     """Informiert das lokale LLM über einen bevorstehenden Phasenwechsel."""
     payload = {
-        "model": "Qwen3.5-0.8B.Q5_K_M",
+        "model": "LLM_NAME_MODEL",
         "messages": [{"role": "user", "content": f"QMFI_SIGNAL: PREPARE_PHASE_SH>
     }
     try:
