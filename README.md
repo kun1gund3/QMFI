@@ -1,4 +1,4 @@
-# 🌊 QMFI - Quantum Molecular Flow Inference
+#  QMFI - Quantum Molecular Flow Inference
 
 > **Status:** Experimental (Delta-Node Active)  
 > **Substrate:** S20 FE (aarch64)  
