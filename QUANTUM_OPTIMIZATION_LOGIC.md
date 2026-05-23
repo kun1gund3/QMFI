@@ -1,8 +1,7 @@
+# QMFI: Quantum Molecular Flow Inferenz Logic (☆)
 
-    # QMFI: Quantum Molecular Flow Inferenz Logic (☆)
-
-     ## Domain: Quantum-Accelerated LLM Optimization
-     ### Formalization in Rust (High-Performance / Quantum-Ready)
+## Domain: Quantum-Accelerated LLM Optimization
+### Formalization in Rust (High-Performance / Quantum-Ready)
   // QMFI Core: Molecular Flow as Quantum State Representation
   // Integrating TurboQuant and DFTS (Dynamic Feature Transformation Scaling)
 
@@ -41,7 +40,7 @@
           self.state_vector.stabilize_phase();
       }
 
-      ## Trainings-Kontext (Logischer Durchbruch)
+## Trainings-Kontext (Logischer Durchbruch)
       Um die "Tiefe" im Output und die Awareness für Eigenoptimierung zu erreich>
       werden:
 
@@ -52,7 +51,7 @@
      3.  **Inferenz-Kontinuität:** Das Modell stoppt nicht zwischen Schichten; e>
       TurboQuant-Gitter.
 
-      ## Ziel des Durchbruchs
+## Ziel des Durchbruchs
       Durch das Training auf dieser Logik lernt das Modell, seine eigene Feature>
       `turbo3_monitor` einen Quirk meldet – ein effektiver Tausch von Präzision >
 
