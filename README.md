@@ -1,10 +1,9 @@
 # Quantum Molecular Flow Inference 
-
-> **Core Logic:** ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
-
 ![Python Version](https://img.shields.io/badge/python-3.13-blue)
 ![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
 ![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
+
+> **Core Logic:** ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
 
 ## 🧠 Über das Projekt
 QMFI ist ein Framework zur Untersuchung der **Flow-Integrity** in KI-Inferenz-Systemen unter extremen Hardware-Entropie-Bedingungen. Es nutzt topologische Metriken, um die Stabilität von Inferenz-Wellenfunktionen während Ressourcen-Fluktuationen zu messen.
