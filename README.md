@@ -53,10 +53,6 @@ Dieses Framework ist für die Ausführung in **Termux** (Android) optimiert.
   
 ---
 
-### Schnellstart
-```bash
-make sync  # Baseline Kalibrierung
-make flow  # Inferenz-Test & Logbuch-Eintrag
-```
+
 
 
