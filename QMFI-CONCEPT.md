@@ -214,6 +214,13 @@ EIGENSCHAFTEN:
 ======================================================================
 
 
+                                   FORMELQUANT   
+Die Flow-Integrity Formel (Konzeptionell)
+
+  FI = ∫{t₀}^{t{end}} (Logische Kohärenz)/(Hardware-Entropie + 1)  dt
+
+ 
+---
 
 ### Schnellstart
 ```bash
