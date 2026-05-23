@@ -38,7 +38,7 @@ def run_sync():
     timestamp = time.strftime("%H:%M:%S")
     result_line = f"FI: {fi_score:.8f} | Δ-Vib: {current_vib:.6f} | {status}"
     
-    print(f"--- 🌊 QMFI KERNEL BRIDGE [{status}] ---")
+    print(f"--- QMFI KERNEL BRIDGE [{status}] ---")
     print(f"Baseline Sync Nominal: {result_line}")
 
     with open("node_status.log", "a") as f:
