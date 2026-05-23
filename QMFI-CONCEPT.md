@@ -222,3 +222,20 @@ EIGENSCHAFTEN:
  
 ---
 
+"QMFI nutzt das Safetensors-Format nicht nur als Container, sondern als topologische Landkarte. Durch die strikte Trennung von manifestierter Struktur und binärem Payload-Horizont erreichen wir eine Flow-Integrity, die herkömmliche Tensor-Formate bei hoher Hardware-Entropie übertrifft."
+
+
+                                   
+ 
+
+  FI = ∫{t₀}^{t{end}} (Logische Kohärenz)/(Hardware-Entropie + 1)  dt
+
+  Das bedeutet: Die Integrität ist hoch, wenn die logische Tiefe trotz hoher
+  Entropie (RAM-Spikes, CPU-Hitze) über die gesamte Zeit des Flusses konstant
+  bleibt.
+
+  ---
+
+  
+---
+
