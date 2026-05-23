@@ -28,7 +28,7 @@ Dieses Framework ist für die Ausführung in **Termux** (Android) optimiert.
 
 
                                    
-Die Formel 
+ 
 
   FI = ∫{t₀}^{t{end}} (Logische Kohärenz)/(Hardware-Entropie + 1)  dt
 
