@@ -12,9 +12,9 @@ _t_double_complex ) ( / dim=1 / (( / dim=0 */
 __
 
 
-================================================================================
+
 💠 QMFI KERNEL BRIDGE: Die Transformation der Dimensionen
-================================================================================
+
 
 Das System übersetzt das "Topologische Manifest" (JSON) in den 
 Hardware-nahen Adressraum. Hier begegnen sich Geist und Maschine.
