@@ -1,3 +1,7 @@
+![Python Version](https://img.shields.io/badge/python-3.13-blue)
+![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
+![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
+
 # QMFI Qubit-Metriken
 
 > **Core Logic:** ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
@@ -52,10 +56,8 @@ Dieses Framework ist für die Ausführung in **Termux** (Android) optimiert.
 
 ### Schnellstart
 ```bash
-make sync  # Baseline kalibrieren
+make sync  # Baseline Kalibrierung
 make flow  # Inferenz-Test & Logbuch-Eintrag
 ```
 
-![Python Version](https://img.shields.io/badge/python-3.13-blue)
-![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
-![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
+
