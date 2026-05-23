@@ -210,7 +210,7 @@ DETAILANSICHT DES HEADERS (JSON):
 }
 
 
-EIGENSCHAFTEN:
+### EIGENSCHAFTEN:
 1. Sicher: Kein Code-Execution (im Gegensatz zu PyTorch .bin/.pt).
 2. Schnell: Erlaubt Memory-Mapping (Zero-Copy-Loading).
 3. Flexibel: Die Offsets zeigen präzise auf die binären Bereiche am Ende.
