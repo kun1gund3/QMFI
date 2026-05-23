@@ -222,9 +222,3 @@ EIGENSCHAFTEN:
  
 ---
 
-### Schnellstart
-```bash
-cd Δ
-make sync  # Baseline kalibrieren
-make flow  # Inferenz-Test & Logbuch-Eintrag
-
