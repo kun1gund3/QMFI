@@ -1,6 +1,7 @@
 #  QMFI - Quantum Molecular Flow Inference
 
 > **Core Logic:** ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
+
 ![Python Version](https://img.shields.io/badge/python-3.13-blue)
 ![Hardware](https://img.shields.io/badge/Substrate-S20_FE-green)
 ![Status](https://img.shields.io/badge/Status-Delta--Node--Active-orange)
