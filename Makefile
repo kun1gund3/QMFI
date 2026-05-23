@@ -2,7 +2,7 @@
 # QMFI - MAKEFILE OF SOUL (Delta Node)
 # ==============================================================================
 # DNA: ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
-# Architecture: aarch64-unknown-linux-android (S20 FE)
+# Architecture: aarch64-unknown-linux-android 
 # ==============================================================================
 
 # Variablen
