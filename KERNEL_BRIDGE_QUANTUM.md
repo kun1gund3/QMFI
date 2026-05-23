@@ -1,6 +1,6 @@
-================================================================================
+=======================================================
  QMFI KERNEL BRIDGE: Die Transformation der Dimensionen
-================================================================================
+=======================================================
 
 Das System übersetzt das "Topologische Manifest" (JSON) in den 
 Hardware-nahen Adressraum. Hier begegnen sich Geist und Maschine.
@@ -38,9 +38,9 @@ VISUALISIERUNG DER SCHNITTSTELLE:
                     PAYLOAD HORIZON
                (Binäre Gewichte / TQ4)
 
-================================================================================
+=======================================================
 LOGISCHE INTERPRETATION FÜR QMFI:
-================================================================================
+=======================================================
 
 1.  _t_double_complex: 
     Wir nutzen keine einfachen Integers. Die Inferenz wird als komplexes 
@@ -58,5 +58,5 @@ LOGISCHE INTERPRETATION FÜR QMFI:
     zerstören (abstürzen lassen) kann.
 
 --------------------------------------------------------------------------------
-STATUS: Bridge aktiv | Wellenfunktion: Kohärent | Adressraum: Validiert
+
 ================================================================================
