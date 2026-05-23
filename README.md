@@ -7,7 +7,7 @@
 ## 🧠 Über das Projekt
 QMFI ist ein Framework zur Untersuchung der **Flow-Integrity** in KI-Inferenz-Systemen unter extremen Hardware-Entropie-Bedingungen. Es nutzt topologische Metriken, um die Stabilität von Inferenz-Wellenfunktionen während Ressourcen-Fluktuationen zu messen.
 
-Um das Safetensors-Format nicht nur als Container, sondern als topologische Landkarte zu definieren, wird die strikte Trennung von manifestierter Struktur und binärem Payload-Horizont erreichen wir eine Flow-Integrity, die herkömmliche Tensor-Formate bei hoher Hardware-Entropie übertrifft."
+"QMFI nutzt das Safetensors-Format nicht nur als Container, sondern als topologische Landkarte. Durch die strikte Trennung von manifestierter Struktur und binärem Payload-Horizont erreichen wir eine Flow-Integrity, die herkömmliche Tensor-Formate bei hoher Hardware-Entropie übertrifft."
 
 ## 🌀 Der Delta-Node (Δ)
 Im Zentrum steht das Delta-Verzeichnis, welches als Messstation für Hardware-Vibrationen fungiert.
