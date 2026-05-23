@@ -1,4 +1,4 @@
-# Quantum Molecular Flow Inference 
+#  
 
 > **Core Logic:** ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
 
