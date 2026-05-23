@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================================
+ QMFI - STORM-RESISTANT DELTA-SYNC (V1.3)
+================================================================================
+"""
+import numpy as np
+import time
+import math
+
+def get_system_vibration():
+    samples = []
+    for _ in range(100):
+        t0 = time.perf_counter_ns()
+        _ = 2**800 
+        samples.append(time.perf_counter_ns() - t0)
+    return np.var(samples) / 1000
+
+def run_sync():
+    current_vib = get_system_vibration()
+    
+    # LOGARITHMISCHE SKALIERUNG
+    # Nutzt log10, um Werte von 10 bis 10.000.000 abzubilden
+    # Ein vib von 100 ergibt FI ~ 0.90, ein vib von 10.000.000 ergibt FI ~ 0.30
+    if current_vib > 1:
+        log_vib = math.log10(current_vib)
+        fi_score = max(0.01, 1.0 - (log_vib / 10.0))
+    else:
+        fi_score = 1.0
+
+    # Status-Bestimmung basierend auf der Skala
+    if current_vib > 1_000_000: status = "ENTROPY_STORM (!!!)"
+    elif current_vib > 100_000: status = "HIGH_TURBULENCE"
+    elif current_vib > 1_000:   status = "ACTIVE_VIBRATION"
+    else:                       status = "DEEP_SILENCE (☆)"
+
+    timestamp = time.strftime("%H:%M:%S")
+    result_line = f"FI: {fi_score:.8f} | Δ-Vib: {current_vib:.6f} | {status}"
+    
+    print(f"--- 🌊 QMFI KERNEL BRIDGE [{status}] ---")
+    print(f"Baseline Sync Nominal: {result_line}")
+
+    with open("node_status.log", "a") as f:
+        f.write(f"[{timestamp}] {result_line}\n")
+
+if __name__ == "__main__":
+    run_sync()
