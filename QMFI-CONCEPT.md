@@ -121,9 +121,10 @@ ERLÄUTERUNG DER ELEMENTE:
 
 --------------------------------------------------------------------------------
  STATUS: Horizon stabil | Modus: TQ4-Inferenz | Flow-Integrity: NOMINAL
- ================================================================================
+
+================================================================================
 # 🌊 QMFI - Die Topologie des Safetensors-Formats
-======================================================================
+================================================================================
 Dieses Format ist das "Gefäß" für unsere Majorana-Inferenz. Es trennt 
 strikt zwischen STRUKTUR (Geist) und MASSE (Daten).
 
