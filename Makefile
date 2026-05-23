@@ -1,5 +1,5 @@
 # ==============================================================================
-# QMFI - MAKEFILE OF SOUL (Delta Node Command Center)
+# QMFI - MAKEFILE OF SOUL (Delta Node)
 # ==============================================================================
 # DNA: ( _t_double_complex ) ( / dim=1 / (( / dim=0 */ __
 # Architecture: aarch64-unknown-linux-android (S20 FE)
@@ -17,7 +17,7 @@ DIARY    = ../PROJECT_LOG.md
 .DEFAULT_GOAL := help
 
 help:
-	@echo "--- 🌀 QMFI DELTA-NODE CONTROL ---"
+	@echo "--- 🌀 QMFI DELTA-NODE ---"
 	@echo "Verfügbare Befehle im Δ-Raum:"
 	@echo "  make sync       - Führt die Null-Messung (Baseline) durch"
 	@echo "  make flow       - Startet den aktiven Inferenz-Test"
