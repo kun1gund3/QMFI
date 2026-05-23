@@ -4,8 +4,6 @@
 ================================================================================
 QMFI - QUANTUM MOLECULAR FLOW INFERENCE 
 ================================================================================
-PROJECT: Majorana-Inference-Logic
-HARDWARE: 
 ENVIRONMENT: Termux / Python 3.13 / NumPy 2.x
 
 THE DIMENSIONAL DNA:
