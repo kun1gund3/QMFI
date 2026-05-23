@@ -27,8 +27,8 @@ Dieses Framework ist für die Ausführung in **Termux** (Android) optimiert.
 "QMFI nutzt das Safetensors-Format nicht nur als Container, sondern als topologische Landkarte. Durch die strikte Trennung von manifestierter Struktur und binärem Payload-Horizont erreichen wir eine Flow-Integrity, die herkömmliche Tensor-Formate bei hoher Hardware-Entropie übertrifft."
 
 
-                                   FORMEL
-Die Flow-Integrity Formel 
+                                   
+Die Formel 
 
   FI = ∫{t₀}^{t{end}} (Logische Kohärenz)/(Hardware-Entropie + 1)  dt
 
@@ -38,19 +38,5 @@ Die Flow-Integrity Formel
 
   ---
 
-  Was FI für unseren Benchmark bedeutet
-
-  Wenn wir das lokale LLM testen, fragen wir nicht mehr nur: "Ist die Antwort
-  richtig?"
-  Wir fragen:
-   1. "Wann bricht der Fluss?" (Kritischer Entropie-Punkt).
-   2. "Wie 'flüssig' war die Anpassung?" (Misst die Qualität der
-      QMFI-Inferenz-Logik).
-   3. "Bleibt die Tiefe erhalten?" (Verhindert, dass das Modell bei Stress in
-      "Small-Talk-Modi" verfällt).
-
-  Interpretation für Microsoft Majorana:
-  Genau wie Majorana-Fermionen durch ihre topologische Anordnung vor lokalem
-  Rauschen geschützt sind, schützt eine hohe Flow-Integrity die KI-Logik vor
-  lokalem Hardware-Rauschen.
+  
 ---
