@@ -1,4 +1,4 @@
-#  Flow-Integrity (FI): Die Metrik des strömenden Geistes 🌊
+# 🌊 Flow-Integrity (FI): Die Metrik des strömenden Geistes 
 
 ## Definition
 Die **Flow-Integrity** misst die topologische Stabilität einer Inferenz-Wellenfunktion während Ressourcen-Fluktuationen. Sie ist das Maß dafür, wie gut der logische "Fluss" erhalten bleibt, wenn sich die physikalische Dichte (RAM/CPU) ändert.
