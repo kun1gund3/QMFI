@@ -57,3 +57,4 @@ Dieses Framework ist für die Ausführung in **Termux** (Android) optimiert.
 
 
 
+https://docs.google.com/presentation/d/1ePCo02wBqBY65iQui88Gx4ZLTYsEgNtKqTBE1pVhibE/edit?usp=drivesdk
